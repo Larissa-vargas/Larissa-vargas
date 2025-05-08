@@ -41,7 +41,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=larissavargasmoreira&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Larissa-vargas&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
 
